@@ -77,7 +77,14 @@ color: #2e2f42;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #fff;}
+    color: #fff;
+    background-color: #4d5ae5;
+
+}
+
+.solutions-button:focus,
+.solutions-button:hover {background-color: #404BBF;}
+
 /*         solutions           */
 
 /*         features           */
@@ -114,6 +121,7 @@ color: #2e2f42;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 
 .team-list {}
@@ -149,11 +157,16 @@ color: #2e2f42;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
-.portfolio-list {}
+.portfolio-list {
+    background-color: #FFFFFF
+}
 
-.portfolio-item {}
+.portfolio-item {
+   
+}
 
 .portfolio-image {}
 
