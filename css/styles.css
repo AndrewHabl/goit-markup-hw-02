@@ -126,7 +126,7 @@ color: #2e2f42;
 
 .team-list {}
 
-.team-member {}
+.team-member {background-color: #FFFFFF}
 
 .team-image {}
 
@@ -161,7 +161,7 @@ color: #2e2f42;
 }
 
 .portfolio-list {
-    background-color: #FFFFFF
+   
 }
 
 .portfolio-item {
@@ -196,7 +196,7 @@ color: #2e2f42;
         letter-spacing: 0.02em;
         color: #f4f4fd;
 }
-.logo-footer {
+.logo-studio-footer {
     font-weight: 700;
         font-size: 18px;
         line-height: 1.17;
