@@ -1,6 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #fff;
+    color: #434455;
     
 }
 
@@ -29,7 +30,7 @@ button {
 .logo { font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #2e2f42;
@@ -48,11 +49,14 @@ button {
         color: #2e2f42;
 }
 
+.address {
+    font-style: normal;
+}
+
 .address-item {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #434455;
 }
 
 /*         header           */
@@ -95,7 +99,6 @@ button {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #434455;
 }
 /*         features           */
 
@@ -133,7 +136,6 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #434455;
 }
 /*         team           */
 
@@ -167,7 +169,6 @@ button {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #434455;
 }
 /*         portfolio           */
 
@@ -185,7 +186,7 @@ button {
 .logo-footer {
     font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #f4f4fd;
